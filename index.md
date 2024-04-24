@@ -10,11 +10,14 @@ title: Chrysanthi Ainali
 <div class="myWrapper" markdown="1">
 
 
-Hello, I am Chrysanthi Ainali, PhD, an entrepreneurial data scientist with a passion for integrating and analyzing high throughput multi-omic and healthcare data to drive breakthroughs in drug discovery and repurposing. With over 15 years of experience in machine learning, AI, and data science, I excel in transforming complex data into actionable insights and innovative solutions.
+I born and raised in Thessaloniki, Greece but I live abroad since 2006. Spending some years in UK and Germany, I now live with my family in Woking, Surrey, a nice village outside London.
+
+I was trained as a computer scientist but as I always had a passion about biology and wanted to see if we can cure cancer, I moved to the field of bioinformatics. I have more than 15 years of experience in analyzing high throughput mutlti-omic and healthcare data and transforming complex data into actionable insights and innovative solutions.
+
 
 ### Professional Highlights
 
-- **Leadership and Innovation:** Founder of DIGNOSIS Ltd, where I spearhead the development of advanced bioinformatics pipelines using AI/ML methodologies. My work includes significant collaborations with industry leaders such as UCB, Mission Bio, and King’s College London, focusing on patient stratification, drug discovery, and repurposing.
+- **Leadership and Innovation:** Founded DIGNOSIS Ltd, where I spearhead the development of advanced bioinformatics pipelines using AI/ML methodologies. My work includes significant collaborations with industry leaders such as UCB, Mission Bio, and King’s College London, focusing on patient stratification, drug discovery, and repurposing.
   
 - **Product Development:** As a Product Owner at Congenica Ltd, I led cross-functional teams of engineers and bioinformaticians to develop and launch a CE-Marked IVD clinical decision support platform for oncology. My strategic vision and product management skills have successfully reduced time-to-market and improved product roadmaps.
 
