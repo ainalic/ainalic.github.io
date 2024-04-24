@@ -2,8 +2,7 @@ remote_theme: poole/hyde
 
 title: Chrysanthi Ainali
 email: chrysanthi.ainali@dignosis.ai
-description: >- # lines until "baseurl:"
-  
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ainalic.github.io" # the base hostname & protocol for your site
 
