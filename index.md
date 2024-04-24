@@ -3,7 +3,7 @@ layout: default
 title: Chrysanthi Ainali
 ---
 
-<!---<img src=""/>---> 
+<!---<img src="DNAseq.jpg"/>---> 
 
 
 ## About Me
