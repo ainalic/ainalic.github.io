@@ -6,10 +6,9 @@ title: Chrysanthi Ainali
 <!---<img src=""/>---> 
 
 
-### About
+## About Me
 <div class="myWrapper" markdown="1">
 
-## About Me
 
 Hello, I am Chrysanthi Ainali, PhD, an entrepreneurial data scientist with a passion for integrating and analyzing high throughput multi-omic and healthcare data to drive breakthroughs in drug discovery and repurposing. With over 15 years of experience in machine learning, AI, and data science, I excel in transforming complex data into actionable insights and innovative solutions.
 
