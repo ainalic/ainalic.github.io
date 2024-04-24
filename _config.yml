@@ -1,13 +1,10 @@
-remote_theme: poole/hyde
+theme: jekyll-theme-tactile
+title: Chrysanthi Ainali, Ph.D
+show_downloads: false
+tag_text: Chrysanthi Ainali
+description: "" 
 
-title: Chrysanthi Ainali
-email: chrysanthi.ainali@dignosis.ai
-description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ainalic.github.io" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-hyde
-
+pages:
+  markdown:
+    extra: true
 
