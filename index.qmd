@@ -1,5 +1,5 @@
 ---
-title: "Chrysanthi Ainali"
+title: "Chrysanthi Ainali, PhD"
 about:
   template: trestles
   image: IMG_8505.JPG
