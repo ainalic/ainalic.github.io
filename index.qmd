@@ -13,7 +13,7 @@ about:
     - text: "{{< fa envelope >}} Email"
       url: mailto:chrysanthi.ainali@dignosis.ai
 
-
+---
 Chrysanthi Ainali is a bioinformatician and consultant with expertise in the integration of AI technologies and techniques. She has a PhD in Machine Learning and Translational Medicine from King’s College London, where she focused on the development, validation, and application of Machine Learning algorithms to the integration of genomic data for biomarker identiﬁcation, disease subtype identiﬁcation, and patient stratiﬁcation. In 2017, Chrysanthi founded DiGNOSIS to provide professional consultancy and data science services for pharmaceutical companies, and to pioneer the application of AI in medicine. 
 
 ## Experience
