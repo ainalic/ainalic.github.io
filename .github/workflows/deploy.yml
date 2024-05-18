@@ -15,11 +15,16 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: latest
 
       - name: Install dependencies
         run: |
+          sudo apt-get update
           sudo apt-get install -y pandoc
-          Rscript -e 'install.packages("quarto")'
+          mkdir -p ~/R/x86_64-pc-linux-gnu-library/4.0
+          echo 'R_LIBS_USER="~/R/x86_64-pc-linux-gnu-library/4.0"' >> ~/.Renviron
+          Rscript -e 'install.packages("quarto", repos="http://cran.rstudio.com")'
 
       - name: Render Quarto site
         run: |
