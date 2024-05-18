@@ -13,10 +13,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          version: latest
+      - name: Install Quarto
+        run: |
+          LATEST=$(curl -s https://api.github.com/repos/quarto-dev/quarto-cli/releases/latest | grep "tag_name" | cut -d '"' -f 4)
+          wget https://github.com/quarto-dev/quarto-cli/releases/download/${LATEST}/quarto-${LATEST}-linux-amd64.deb
+          sudo dpkg -i quarto-${LATEST}-linux-amd64.deb
 
       - name: Install dependencies
         run: |
