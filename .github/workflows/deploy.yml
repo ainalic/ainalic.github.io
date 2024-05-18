@@ -13,17 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Install Quarto
-        run: |
-          wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.2.313/quarto-1.2.313-linux-amd64.deb
-          sudo dpkg -i quarto-1.2.313-linux-amd64.deb
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: latest
 
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc
-          mkdir -p ~/.R/library
-          Rscript -e 'install.packages("quarto", repos="http://cran.rstudio.com", lib="~/.R/library")'
 
       - name: Render Quarto site
         run: |
