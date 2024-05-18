@@ -15,27 +15,38 @@ about:
       url: mailto:chrysanthi.ainali@dignosis.ai
 
 ---
+
+## Bio
+
 Chrysanthi Ainali is a bioinformatician and consultant with expertise in the integration of AI technologies and techniques. She has a PhD in Machine Learning and Translational Medicine from King’s College London, where she focused on the development, validation, and application of Machine Learning algorithms to the integration of genomic data for biomarker identiﬁcation, disease subtype identiﬁcation, and patient stratiﬁcation. In 2017, Chrysanthi founded DiGNOSIS to provide professional consultancy and data science services for pharmaceutical companies, and to pioneer the application of AI in medicine. 
 
 ## Experience
 
+Dignosis Ltd | Founder | Dec 2017 - present 
+
 Congenica Ltd | Product Owner | Sept 2022 - March 2024
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018 
+Cellinta Ltd | Head of Bioinformatics | Feb 2021 - Apr 2021
 
-## Projects
+Bering Limited | Head of Data Science | June 2016 - Apr 2018
 
+Thermo Fisher Scientific | Clinical Bioinformatics Specialist | Jan 2014 - June 2016
+
+Life Technologies (acquired by Thermo Fisher) | Scientist Bioinformatics | Sept 2012 - Jan 2014
 
 
 ## Education
 
 King's College London | London, UK
+
 PhD in Bioinformatics: Machine Learning for Translational Medicine | Sept 2008 - Sept 2012
 
 University of York | York, UK
+
 MRes in Bioinformatics | Sept 2006 - Sept 2007
 
 University of Macedonia | Thessaloniki, Greece
+
 BSc in Applied Informatics | Sept 2002 - Sept 2006
 
 
