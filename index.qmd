@@ -10,7 +10,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-    - text: "{{< fa envelope >}} Email"
+    - icon: email
+      text: "Email"
       url: mailto:chrysanthi.ainali@dignosis.ai
 
 ---
