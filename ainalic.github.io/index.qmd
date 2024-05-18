@@ -1,0 +1,40 @@
+---
+title: "Chrysanthi Ainali"
+about:
+  template: trestles
+  image: IMG_8505.JPG
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/chrysanthi-ainali-b8215216/
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Chrysanthi Ainali is a bioinformatician and consultant with expertise in the integration of AI technologies and techniques. She has a PhD in Machine Learning and Translational Medicine from King’s College London, where she focused on the development, validation, and application of Machine Learning algorithms to the integration of genomic data for biomarker identiﬁcation, disease subtype identiﬁcation, and patient stratiﬁcation. In 2017, Chrysanthi founded DiGNOSIS to provide professional consultancy and data science services for pharmaceutical companies, and to pioneer the application of AI in medicine. 
+
+## Experience
+
+Congenica Ltd | Product Owner | Sept 2022 - March 2024
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018 
+
+## Projects
+
+
+
+## Education
+
+King's College London | London, UK
+PhD in Bioinformatics: Machine Learning for Translational Medicine | Sept 2008 - Sept 2012
+
+University of York | York, UK
+MRes in Bioinformatics | Sept 2006 - Sept 2007
+
+University of Macedonia | Thessaloniki, Greece
+BSc in Applied Informatics | Sept 2002 - Sept 2006
+
+
+
+
